@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: ../Workshop_Dataset2/train/images
+val: ../Workshop_Dataset2/valid/images
 
 nc: 2
 names: ['cat', 'dog']
